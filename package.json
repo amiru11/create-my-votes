@@ -1,0 +1,32 @@
+{
+  "name": "create-my-votes",
+  "version": "0.0.1",
+  "description": "Create My Vote for enjoy",
+  "repository": "https://github.com/amiru11/create-my-votes.git",
+  "author": "Amiru11 <wrfg12@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^13.4.19",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "20.5.9",
+    "@types/react": "18.2.21",
+    "autoprefixer": "^10.4.15",
+    "eslint": "8.48.0",
+    "eslint-config-next": "13.4.19",
+    "eslint-config-prettier": "^9.0.0",
+    "postcss": "^8.4.29",
+    "prettier": "^3.0.3",
+    "prettier-plugin-tailwindcss": "^0.5.4",
+    "typescript": "5.2.2"
+  }
+}
